@@ -2,12 +2,12 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Joel;Tobman;;;
-FN: Tobman  Joel 
+FN: Joel  Tobman 
 ORG:Joe Pickett: Season 1;
 TITLE:Art Director
 EMAIL;type=INTERNET;type=WORK;type=pref:info@joeltobman.com
 TEL;type=WORK;type=VOICE:403 701 0407
-item1.ADR;type=WORK;type=pref:;;3408 Button Rd NW\nCalgary, Alberta\,;;;T2L 1N1;Canada
+item1.ADR;type=WORK;type=pref:;;3408 Button Rd NW\nCalgary, Alberta\;;;T2L 1N1;Canada
 item1.X-ABADR:sg
 item2.URL;type=pref:joeltobman.com
 item2.X-ABLabel:_$!<HomePage>!$_
