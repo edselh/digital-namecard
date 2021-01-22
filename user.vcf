@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Antosz;Luke;;;
-FN: Luke  Antosz 
+N:Hilchie;Edsel;;;
+FN: Edsel  Hilchie 
 ORG:Joe Pickett: Season 1;
-TITLE:Location Manager
-EMAIL;type=INTERNET;type=WORK;type=pref:luke_antosz@me.com
-TEL;type=WORK;type=VOICE:403 919 1999
+TITLE:Supervising Location Manager
+EMAIL;type=INTERNET;type=WORK;type=pref:edselh@me.com
+TEL;type=WORK;type=VOICE:403 651 1451
 item1.ADR;type=WORK;type=pref:;; \nCalgary, Alberta\;;; ;Canada
 item1.X-ABADR:sg
 item2.URL;type=pref:
